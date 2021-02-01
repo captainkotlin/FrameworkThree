@@ -1,0 +1,44 @@
+plugins {
+    id 'java'
+    id "io.freefair.lombok" version "5.3.0"
+}
+
+
+repositories {
+    mavenCentral()
+}
+
+ext {
+    groovyVer = "3.0.6"
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
+    testImplementation (group: 'io.rest-assured', name: 'rest-assured', version: '4.3.3')
+    {
+        exclude group: 'org.codehaus.groovy'
+    }
+
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+    testRuntime group: "org.codehaus.groovy", name: "groovy", version: "$groovyVer"
+    testRuntime group: "org.codehaus.groovy", name: "groovy-xml", version: "$groovyVer"
+    testRuntime group: "org.codehaus.groovy", name: "groovy-json", version: "$groovyVer"
+}
+
+test {
+    useJUnitPlatform() {
+
+    }
+}
+
+compileTestJava {
+    doFirst {
+        options.compilerArgs = [
+                '--module-path', classpath.asPath,
+                '--add-modules', 'org.junit.jupiter.api',
+                '--add-modules', 'org.apache.commons.lang3',
+                '--add-modules', 'lombok'
+        ]
+        classpath = files()
+    }
+}

@@ -1,0 +1,5 @@
+rootProject.name = 'FrameworkThree'
+include 'WebApi'
+include 'WebUi'
+include 'Mobile'
+

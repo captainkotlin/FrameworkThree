@@ -1,0 +1,596 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:80             0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    0.0.0.0:4723           0.0.0.0:0              LISTENING
+ [Appium.exe]
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    0.0.0.0:5432           0.0.0.0:0              LISTENING
+ [postgres.exe]
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    0.0.0.0:8040           0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    0.0.0.0:8050           0.0.0.0:0              LISTENING
+ [java.exe]
+  TCP    0.0.0.0:9090           0.0.0.0:0              LISTENING
+ [java.exe]
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING
+ [lsass.exe]
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING
+ [spoolsv.exe]
+  TCP    0.0.0.0:55291          0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    127.0.0.1:4767         0.0.0.0:0              LISTENING
+ [PanGPS.exe]
+  TCP    127.0.0.1:4767         127.0.0.1:55265        ESTABLISHED
+ [PanGPS.exe]
+  TCP    127.0.0.1:4768         0.0.0.0:0              LISTENING
+ [sqlservr.exe]
+  TCP    127.0.0.1:5037         0.0.0.0:0              LISTENING
+ [adb.exe]
+  TCP    127.0.0.1:5432         127.0.0.1:54655        ESTABLISHED
+ [postgres.exe]
+  TCP    127.0.0.1:5432         127.0.0.1:54661        ESTABLISHED
+ [postgres.exe]
+  TCP    127.0.0.1:5432         127.0.0.1:54662        ESTABLISHED
+ [postgres.exe]
+  TCP    127.0.0.1:5432         127.0.0.1:54663        ESTABLISHED
+ [postgres.exe]
+  TCP    127.0.0.1:5432         127.0.0.1:54665        ESTABLISHED
+ [postgres.exe]
+  TCP    127.0.0.1:5432         127.0.0.1:54669        ESTABLISHED
+ [postgres.exe]
+  TCP    127.0.0.1:5432         127.0.0.1:54670        ESTABLISHED
+ [postgres.exe]
+  TCP    127.0.0.1:5432         127.0.0.1:63581        ESTABLISHED
+ [postgres.exe]
+  TCP    127.0.0.1:5432         127.0.0.1:64091        ESTABLISHED
+ [postgres.exe]
+  TCP    127.0.0.1:5432         127.0.0.1:64112        ESTABLISHED
+ [postgres.exe]
+  TCP    127.0.0.1:5432         127.0.0.1:64113        ESTABLISHED
+ [postgres.exe]
+  TCP    127.0.0.1:5432         127.0.0.1:64157        ESTABLISHED
+ [postgres.exe]
+  TCP    127.0.0.1:5432         127.0.0.1:64218        ESTABLISHED
+ [postgres.exe]
+  TCP    127.0.0.1:5432         127.0.0.1:64244        ESTABLISHED
+ [postgres.exe]
+  TCP    127.0.0.1:6942         0.0.0.0:0              LISTENING
+ [idea64.exe]
+  TCP    127.0.0.1:6943         0.0.0.0:0              LISTENING
+ [studio64.exe]
+  TCP    127.0.0.1:8050         127.0.0.1:60516        ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:8103         0.0.0.0:0              LISTENING
+ [qbittorrent.exe]
+  TCP    127.0.0.1:8105         0.0.0.0:0              LISTENING
+ [java.exe]
+  TCP    127.0.0.1:11369        0.0.0.0:0              LISTENING
+ [GearsAgentService.exe]
+  TCP    127.0.0.1:27017        0.0.0.0:0              LISTENING
+ [mongod.exe]
+  TCP    127.0.0.1:31000        127.0.0.1:32001        ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:32001        0.0.0.0:0              LISTENING
+ [TeamCityAgentService-windows-x86-32.exe]
+  TCP    127.0.0.1:32001        127.0.0.1:31000        ESTABLISHED
+ [TeamCityAgentService-windows-x86-32.exe]
+  TCP    127.0.0.1:50918        127.0.0.1:8040         TIME_WAIT
+  TCP    127.0.0.1:50967        127.0.0.1:8040         TIME_WAIT
+  TCP    127.0.0.1:50968        127.0.0.1:8040         TIME_WAIT
+  TCP    127.0.0.1:50995        0.0.0.0:0              LISTENING
+ [idea64.exe]
+  TCP    127.0.0.1:50996        127.0.0.1:50997        ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:50997        127.0.0.1:50996        ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:51346        127.0.0.1:9229         SYN_SENT
+ [chrome.exe]
+  TCP    127.0.0.1:53450        127.0.0.1:53451        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:53451        127.0.0.1:53450        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:53455        127.0.0.1:53456        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:53456        127.0.0.1:53455        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:53462        127.0.0.1:53463        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:53463        127.0.0.1:53462        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:53464        127.0.0.1:53465        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:53465        127.0.0.1:53464        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:53471        127.0.0.1:53472        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:53472        127.0.0.1:53471        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:54655        127.0.0.1:5432         ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:54661        127.0.0.1:5432         ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:54662        127.0.0.1:5432         ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:54663        127.0.0.1:5432         ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:54665        127.0.0.1:5432         ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:54669        127.0.0.1:5432         ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:54670        127.0.0.1:5432         ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:55265        127.0.0.1:4767         ESTABLISHED
+ [PanGPA.exe]
+  TCP    127.0.0.1:57122        127.0.0.1:57123        ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:57123        127.0.0.1:57122        ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:57125        127.0.0.1:57126        ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:57126        127.0.0.1:57125        ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:57127        127.0.0.1:57128        ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:57128        127.0.0.1:57127        ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:57339        127.0.0.1:57340        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:57340        127.0.0.1:57339        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:59143        0.0.0.0:0              LISTENING
+ [idea64.exe]
+  TCP    127.0.0.1:60516        127.0.0.1:8050         ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:61385        127.0.0.1:61386        ESTABLISHED
+ [qbittorrent.exe]
+  TCP    127.0.0.1:61386        127.0.0.1:61385        ESTABLISHED
+ [qbittorrent.exe]
+  TCP    127.0.0.1:63150        0.0.0.0:0              LISTENING
+ [com.docker.proxy.exe]
+  TCP    127.0.0.1:63176        0.0.0.0:0              LISTENING
+ [pgAdmin4.exe]
+  TCP    127.0.0.1:63342        0.0.0.0:0              LISTENING
+ [idea64.exe]
+  TCP    127.0.0.1:63343        0.0.0.0:0              LISTENING
+ [studio64.exe]
+  TCP    127.0.0.1:63539        127.0.0.1:63540        ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:63540        127.0.0.1:63539        ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:63541        127.0.0.1:63542        ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:63542        127.0.0.1:63541        ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:63554        0.0.0.0:0              LISTENING
+ [idea64.exe]
+  TCP    127.0.0.1:63581        127.0.0.1:5432         ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:64091        127.0.0.1:5432         ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:64112        127.0.0.1:5432         ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:64113        127.0.0.1:5432         ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:64157        127.0.0.1:5432         ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:64218        127.0.0.1:5432         ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:64244        127.0.0.1:5432         ESTABLISHED
+ [java.exe]
+  TCP    127.0.0.1:64766        127.0.0.1:64767        ESTABLISHED
+ [studio64.exe]
+  TCP    127.0.0.1:64767        127.0.0.1:64766        ESTABLISHED
+ [studio64.exe]
+  TCP    127.0.0.1:64768        127.0.0.1:64769        ESTABLISHED
+ [studio64.exe]
+  TCP    127.0.0.1:64769        127.0.0.1:64768        ESTABLISHED
+ [studio64.exe]
+  TCP    127.0.0.1:64770        127.0.0.1:64771        ESTABLISHED
+ [studio64.exe]
+  TCP    127.0.0.1:64771        127.0.0.1:64770        ESTABLISHED
+ [studio64.exe]
+  TCP    127.0.0.1:64783        127.0.0.1:64784        ESTABLISHED
+ [studio64.exe]
+  TCP    127.0.0.1:64784        127.0.0.1:64783        ESTABLISHED
+ [studio64.exe]
+  TCP    127.0.0.1:64963        127.0.0.1:64964        ESTABLISHED
+ [adb.exe]
+  TCP    127.0.0.1:64964        127.0.0.1:64963        ESTABLISHED
+ [adb.exe]
+  TCP    127.0.0.1:64965        127.0.0.1:64966        ESTABLISHED
+ [adb.exe]
+  TCP    127.0.0.1:64966        127.0.0.1:64965        ESTABLISHED
+ [adb.exe]
+  TCP    172.30.208.1:139       0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    172.30.208.1:8103      0.0.0.0:0              LISTENING
+ [qbittorrent.exe]
+  TCP    192.168.1.105:139      0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    192.168.1.105:8103     0.0.0.0:0              LISTENING
+ [qbittorrent.exe]
+  TCP    192.168.1.105:50440    52.159.49.199:443      ESTABLISHED
+ [Skype.exe]
+  TCP    192.168.1.105:50689    199.232.16.133:443     ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.1.105:50723    195.78.93.43:443       ESTABLISHED
+ [Teams.exe]
+  TCP    192.168.1.105:50724    195.78.93.43:443       ESTABLISHED
+ [Teams.exe]
+  TCP    192.168.1.105:50725    195.78.93.43:443       ESTABLISHED
+ [Teams.exe]
+  TCP    192.168.1.105:50731    172.217.16.101:443     TIME_WAIT
+  TCP    192.168.1.105:50735    13.83.65.43:443        ESTABLISHED
+ [Skype.exe]
+  TCP    192.168.1.105:50819    172.67.74.243:443      ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.1.105:50820    172.67.74.243:443      ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.1.105:50829    104.16.124.175:443     ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.1.105:50831    104.18.8.111:443       ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.1.105:50833    151.101.2.109:443      ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.1.105:50835    104.18.8.111:443       ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.1.105:50836    172.64.101.2:443       ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.1.105:50837    35.201.97.85:443       ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.1.105:50966    40.77.226.250:443      TIME_WAIT
+  TCP    192.168.1.105:50969    13.224.194.19:443      TIME_WAIT
+  TCP    192.168.1.105:51009    216.58.214.195:443     TIME_WAIT
+  TCP    192.168.1.105:51010    216.58.214.238:80      TIME_WAIT
+  TCP    192.168.1.105:51011    195.138.70.49:80       TIME_WAIT
+  TCP    192.168.1.105:51108    216.58.214.195:443     TIME_WAIT
+  TCP    192.168.1.105:51189    52.143.81.222:443      ESTABLISHED
+ Can not obtain ownership information
+  TCP    192.168.1.105:51206    52.113.199.107:443     ESTABLISHED
+ [Teams.exe]
+  TCP    192.168.1.105:51260    40.127.110.237:443     ESTABLISHED
+ [Skype.exe]
+  TCP    192.168.1.105:51261    68.232.34.200:443      ESTABLISHED
+ [Skype.exe]
+  TCP    192.168.1.105:51263    40.127.110.237:443     ESTABLISHED
+ [Skype.exe]
+  TCP    192.168.1.105:51264    68.232.34.200:443      ESTABLISHED
+ [Skype.exe]
+  TCP    192.168.1.105:51321    77.219.8.118:34417     ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:51322    77.219.2.59:4261       ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:51324    79.134.199.201:6986    ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:51326    77.219.12.68:35318     ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:51327    77.219.8.61:59732      ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:51328    77.219.7.34:40926      ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:51329    77.219.8.168:14099     ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:51330    77.219.3.63:1          ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:51333    77.219.10.94:6759      ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:51336    77.219.6.207:26887     ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:51337    77.219.13.106:8635     ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:51339    77.219.0.182:9248      ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:51340    77.219.0.158:57034     ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:51341    77.219.6.16:20442      ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:51342    77.219.4.70:34164      ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:51343    77.219.8.142:29685     ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:51344    77.219.10.143:52694    ESTABLISHED
+ [qbittorrent.exe]
+  TCP    192.168.1.105:53467    35.167.145.222:443     ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.1.105:56320    52.114.74.222:443      ESTABLISHED
+ [Teams.exe]
+  TCP    192.168.1.105:56321    13.69.188.18:443       ESTABLISHED
+ [Skype.exe]
+  TCP    192.168.1.105:56322    13.69.188.18:443       ESTABLISHED
+ [Skype.exe]
+  TCP    192.168.1.105:56351    51.103.5.186:443       ESTABLISHED
+  WpnService
+ [svchost.exe]
+  TCP    192.168.1.105:58634    142.250.102.188:5228   ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.1.105:58635    142.250.102.188:5228   ESTABLISHED
+ [opera.exe]
+  TCP    192.168.1.105:58636    52.97.188.66:443       ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.1.105:58652    52.113.199.14:443      ESTABLISHED
+ [Teams.exe]
+  TCP    192.168.1.105:59391    198.252.206.25:443     ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.1.105:60140    54.227.133.51:443      ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.1.105:60191    51.103.5.159:443       ESTABLISHED
+ [OneDrive.exe]
+  TCP    192.168.1.105:61025    52.159.49.199:443      ESTABLISHED
+ [Skype.exe]
+  TCP    192.168.1.105:61026    13.83.65.43:443        ESTABLISHED
+ [Skype.exe]
+  TCP    192.168.1.105:61285    52.97.189.66:443       ESTABLISHED
+ [SearchApp.exe]
+  TCP    192.168.1.105:61686    192.168.1.102:5555     ESTABLISHED
+ [adb.exe]
+  TCP    192.168.1.105:64678    52.98.0.34:443         ESTABLISHED
+ [SearchApp.exe]
+  TCP    [::]:80                [::]:0                 LISTENING
+ Can not obtain ownership information
+  TCP    [::]:135               [::]:0                 LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               [::]:0                 LISTENING
+ Can not obtain ownership information
+  TCP    [::]:5357              [::]:0                 LISTENING
+ Can not obtain ownership information
+  TCP    [::]:5432              [::]:0                 LISTENING
+ [postgres.exe]
+  TCP    [::]:7680              [::]:0                 LISTENING
+ Can not obtain ownership information
+  TCP    [::]:8040              [::]:0                 LISTENING
+ Can not obtain ownership information
+  TCP    [::]:8050              [::]:0                 LISTENING
+ [java.exe]
+  TCP    [::]:9090              [::]:0                 LISTENING
+ [java.exe]
+  TCP    [::]:49664             [::]:0                 LISTENING
+ [lsass.exe]
+  TCP    [::]:49665             [::]:0                 LISTENING
+ Can not obtain ownership information
+  TCP    [::]:49666             [::]:0                 LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    [::]:49667             [::]:0                 LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49668             [::]:0                 LISTENING
+ [spoolsv.exe]
+  TCP    [::]:55291             [::]:0                 LISTENING
+ Can not obtain ownership information
+  TCP    [::1]:5432             [::1]:63348            ESTABLISHED
+ [postgres.exe]
+  TCP    [::1]:5432             [::1]:63445            ESTABLISHED
+ [postgres.exe]
+  TCP    [::1]:8103             [::]:0                 LISTENING
+ [qbittorrent.exe]
+  TCP    [::1]:63348            [::1]:5432             ESTABLISHED
+ [pgAdmin4.exe]
+  TCP    [::1]:63445            [::1]:5432             ESTABLISHED
+ [pgAdmin4.exe]
+  TCP    [fe80::25d4:d81b:8506:b758%17]:8103  [::]:0                 LISTENING
+ [qbittorrent.exe]
+  TCP    [fe80::8921:cd33:517a:faa9%40]:8103  [::]:0                 LISTENING
+ [qbittorrent.exe]
+  UDP    0.0.0.0:53             *:*                    
+  SharedAccess
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+ [dashost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+ [dashost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:5050           *:*                    
+  CDPSvc
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [opera.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [opera.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [opera.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [opera.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5355           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:6771           *:*                    
+ [qbittorrent.exe]
+  UDP    0.0.0.0:6771           *:*                    
+ [qbittorrent.exe]
+  UDP    0.0.0.0:6771           *:*                    
+ [qbittorrent.exe]
+  UDP    0.0.0.0:6771           *:*                    
+ [qbittorrent.exe]
+  UDP    0.0.0.0:6771           *:*                    
+ [qbittorrent.exe]
+  UDP    0.0.0.0:6771           *:*                    
+ [qbittorrent.exe]
+  UDP    0.0.0.0:54189          *:*                    
+ [Skype.exe]
+  UDP    0.0.0.0:55018          *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:55242          *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:59916          *:*                    
+ [idea64.exe]
+  UDP    0.0.0.0:61793          *:*                    
+  SharedAccess
+ [svchost.exe]
+  UDP    0.0.0.0:61794          *:*                    
+  SharedAccess
+ [svchost.exe]
+  UDP    0.0.0.0:61863          *:*                    
+ [Skype.exe]
+  UDP    0.0.0.0:62460          *:*                    
+ [Teams.exe]
+  UDP    0.0.0.0:62856          *:*                    
+ [dashost.exe]
+  UDP    0.0.0.0:64346          *:*                    
+ [Teams.exe]
+  UDP    127.0.0.1:1900         *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:8103         *:*                    
+ [qbittorrent.exe]
+  UDP    127.0.0.1:50999        *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:57316        *:*                    
+  iphlpsvc
+ [svchost.exe]
+  UDP    127.0.0.1:64997        *:*                    
+ [com.docker.proxy.exe]
+  UDP    127.0.0.1:64998        *:*                    
+ [com.docker.proxy.exe]
+  UDP    172.30.208.1:137       *:*                    
+ Can not obtain ownership information
+  UDP    172.30.208.1:138       *:*                    
+ Can not obtain ownership information
+  UDP    172.30.208.1:1900      *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    172.30.208.1:8103      *:*                    
+ [qbittorrent.exe]
+  UDP    172.30.208.1:51000     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.1.105:137      *:*                    
+ Can not obtain ownership information
+  UDP    192.168.1.105:138      *:*                    
+ Can not obtain ownership information
+  UDP    192.168.1.105:1900     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.1.105:8103     *:*                    
+ [qbittorrent.exe]
+  UDP    192.168.1.105:50998    *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.1.105:60579    *:*                    
+ [qbittorrent.exe]
+  UDP    [::]:3702              *:*                    
+ [dashost.exe]
+  UDP    [::]:3702              *:*                    
+ [dashost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:5353              *:*                    
+ [opera.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+ [opera.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5355              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:6771              *:*                    
+ [qbittorrent.exe]
+  UDP    [::]:6771              *:*                    
+ [qbittorrent.exe]
+  UDP    [::]:6771              *:*                    
+ [qbittorrent.exe]
+  UDP    [::]:54189             *:*                    
+ [Skype.exe]
+  UDP    [::]:55019             *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:59916             *:*                    
+ [idea64.exe]
+  UDP    [::]:61795             *:*                    
+  SharedAccess
+ [svchost.exe]
+  UDP    [::]:61863             *:*                    
+ [Skype.exe]
+  UDP    [::]:62460             *:*                    
+ [Teams.exe]
+  UDP    [::]:62857             *:*                    
+ [dashost.exe]
+  UDP    [::]:64346             *:*                    
+ [Teams.exe]
+  UDP    [::1]:1900             *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:8103             *:*                    
+ [qbittorrent.exe]
+  UDP    [::1]:50996            *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:60833            *:*                    
+ [postgres.exe]
+  UDP    [fe80::25d4:d81b:8506:b758%17]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::25d4:d81b:8506:b758%17]:8103  *:*                    
+ [qbittorrent.exe]
+  UDP    [fe80::25d4:d81b:8506:b758%17]:50995  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::8921:cd33:517a:faa9%40]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::8921:cd33:517a:faa9%40]:8103  *:*                    
+ [qbittorrent.exe]
+  UDP    [fe80::8921:cd33:517a:faa9%40]:50997  *:*                    
+  SSDPSRV
+ [svchost.exe]
