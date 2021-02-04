@@ -2,7 +2,7 @@ plugins {
     id 'java'
     id "io.freefair.lombok" version "5.3.0"
 }
-
+apply plugin: 'maven'
 
 repositories {
     mavenCentral()
@@ -20,12 +20,13 @@ dependencies {
     }
 
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
-    testRuntime group: "org.codehaus.groovy", name: "groovy", version: "$groovyVer"
-    testRuntime group: "org.codehaus.groovy", name: "groovy-xml", version: "$groovyVer"
-    testRuntime group: "org.codehaus.groovy", name: "groovy-json", version: "$groovyVer"
+    testRuntimeOnly group: "org.codehaus.groovy", name: "groovy", version: "$groovyVer"
+    testRuntimeOnly group: "org.codehaus.groovy", name: "groovy-xml", version: "$groovyVer"
+    testRuntimeOnly group: "org.codehaus.groovy", name: "groovy-json", version: "$groovyVer"
 }
 
 test {
+    systemProperties System.getProperties()
     useJUnitPlatform() {
 
     }
